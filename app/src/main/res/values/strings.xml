@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssigntmentOne</string>
+    <string name="check_out">Check out</string>
+    <string name="emptey">cart is emptey</string>
+    <string name="pc_shop">PC Shop</string>
+    <string name="my_cart">My Cart</string>
+    <string name="add">Add</string>
+    <string name="todo">TODO</string>
+</resources>
