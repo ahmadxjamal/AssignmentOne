@@ -61,6 +61,6 @@ public class PC {
 
     @Override
     public String toString() {
-        return company + " model:" + model + " category=" + category + "\nprice=" + price + " quantity=" + quantity;
+        return company + " model:" + model + " category=" + category + "\nprice=" + price;
     }
 }

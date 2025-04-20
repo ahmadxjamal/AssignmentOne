@@ -82,6 +82,14 @@
         tools:layout_editor_absoluteX="151dp"
         tools:layout_editor_absoluteY="419dp" />
 
+    <Button
+        android:id="@+id/cbtncart2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="@string/my_cart" />
+
     <TextView
         android:id="@+id/txtnf"
         android:layout_width="wrap_content"
